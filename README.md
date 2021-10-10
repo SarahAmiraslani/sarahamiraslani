@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Sarah 
 ***
 
-I am an aspiring Data Scientist and a Master's student studying applied data science at the University of Michigan. 
+I am an aspiring Data Scientist and a Master's student studying Applied Data Science at the University of Michigan. 
 
 - 🔭 I’m currently working on [predicting the popularity of new rap songs](https://github.com/SarahAmiraslani/Rap-Music-Analysis) using natural language processing. 
 - 🌱 I’m currently learning about SQL and Supervised Learning. 
