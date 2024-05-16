@@ -1,7 +1,8 @@
 ### Hello World :earth_americas:,  I'm Sarah!👋
 ***
 
-I'm a Quantitative analyst with a Bachelor's in Cognitive Science and am pursuing my master's in Data Science. My professional journey has spanned across diverse industries including academic research, education, and banking. Over the years I have honed my skills in 🐍 Python, SQL & Databases, Data Visualization, Linear Algebra & Statistical Analysis, and Natural Language Processing. Currently, I am studying Deep Learning and Neural Networks.
+I'm a Quantitative Analyst with a Master's in Data Science. My professional journey has spanned diverse industries including academic research, technology, education, and banking. Over the years, I have honed my skills in 🐍 Python, SQL & Databases, Data Visualization, Linear Algebra & Statistical Analysis, and Natural Language Processing. Currently, I am studying Deep Learning and Neural Networks. I love to collaborate with others on projects, so please feel free to reach out. 
+
 
 ## Languages and Tools
 <table>
