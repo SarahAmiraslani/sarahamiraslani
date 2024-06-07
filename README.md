@@ -1,48 +1,33 @@
-### Hello World :earth_americas:,  I'm Sarah!👋
+### Hello World :earth_americas:,  I'm Sarah! 👩🏻‍💻
 ***
 
-I'm a Quantitative Analyst with a Master's in Data Science. My professional journey has spanned diverse industries including academic research, technology, education, and banking. Over the years, I have honed my skills in 🐍 Python, SQL & Databases, Data Visualization, Linear Algebra & Statistical Analysis, and Natural Language Processing. Currently, I am studying Deep Learning and Neural Networks. I love to collaborate with others on projects, so please feel free to reach out. 
+I'm a Data Scientist and programming enthusiast. My professional journey has spanned diverse industries including academic research, technology, education, and banking. Over the years, I have honed my skills in Python, SQL & Databases, Data Visualization, Linear Algebra & Statistical Analysis, and Natural Language Processing. Currently, I am looking for opportunities to contribute to open-source. 
 
+Fun fact about me: in my free time I enjoy learning about philosophy. My favorite philosopher is [Simone Weil](https://plato.stanford.edu/entries/simone-weil/) and recommend her work to everyone!
 
-## Languages and Tools
-<table>
-<tbody>
-<tr>
-<td align="center" width="15%">
-<img height=60px src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> 
-</td>
+<h2> Skills and Tools </h2>
+<a href= https://github.com/https://github.com/SarahAmiraslani?tab=repositories&q=&type=&language=python&sort= > <img width ='50px' height='50px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
+<a href= https://github.com/https://github.com/SarahAmiraslani?tab=repositories&q=&type=&language=javascript&sort= > <img width ='50px' height='50px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
+<a href= https://github.com/https://github.com/SarahAmiraslani?tab=repositories&q=&type=&language=scikit&sort= > <img width ='50px' height='50px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/scikit.svg'> </a>
+<a href= https://github.com/https://github.com/SarahAmiraslani?tab=repositories&q=&type=&language=pytorch&sort= > <img width ='50px' height='50px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pytorch.svg'> </a>
+<a href= https://github.com/https://github.com/SarahAmiraslani?tab=repositories&q=&type=&language=html&sort= > <img width ='50px' height='50px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
+<a href= https://github.com/https://github.com/SarahAmiraslani?tab=repositories&q=&type=&language=css&sort= > <img width ='50px' height='50px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
+<a href= https://github.com/https://github.com/SarahAmiraslani?tab=repositories&q=&type=&language=java&sort= > <img width ='50px' height='50px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
+<a href= https://github.com/https://github.com/SarahAmiraslani?tab=repositories&q=&type=&language=postgresql&sort= > <img width ='50px' height='50px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postgresql.svg'> </a>
+<a href= https://github.com/https://github.com/SarahAmiraslani?tab=repositories&q=&type=&language=mysql&sort= > <img width ='50px' height='50px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a>
+<a href= https://github.com/https://github.com/SarahAmiraslani?tab=repositories&q=&type=&language=bootstrap&sort= > <img width ='50px' height='50px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg'> </a>
+<a href= https://github.com/https://github.com/SarahAmiraslani?tab=repositories&q=&type=&language=d3js&sort= > <img width ='50px' height='50px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/d3js.svg'> </a>
+<a href= https://github.com/https://github.com/SarahAmiraslani?tab=repositories&q=&type=&language=docker&sort= > <img width ='50px' height='50px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/docker.svg'> </a>
+<a href= https://github.com/https://github.com/SarahAmiraslani?tab=repositories&q=&type=&language=kubernetes&sort= > <img width ='50px' height='50px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/kubernetes.svg'> </a>
+<a href= https://github.com/https://github.com/SarahAmiraslani?tab=repositories&q=&type=&language=selenium&sort= > <img width ='50px' height='50px' src ='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/selenium.svg'> </a>
+<a href= https://github.com/https://github.com/SarahAmiraslani?tab=repositories&q=&type=&language=gcp&sort= > <img width ='50px' height='50px' src ='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/gcp.svg'> </a>
 
-<td align="center" width="15%">
-<img height=60px src="https://jupyter.org/assets/homepage/main-logo.svg"> 
-</td>
-  
-<td align="center" width="15%">
-<img height=60px src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg"> 
-</td>
+<h2> GitHub Statistics </h2>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sarahamiraslani&theme=dracula&hide_border=true&fire=EB5454" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-profile-trophy.vercel.app/?username=sarahamiraslani&theme=dracula&row=2&column=3" alt="GitHub Trophies" /></a>
 
-<td align="center" width="15%">
-<img height=60px src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png">
-</td>
-
-<td align="center" width="15%">
-<img height=60px src="https://pandas.pydata.org/static/img/pandas.svg"> 
-</td>
-
-<td align="center" width="15%">
-<img height=60px src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg"> 
-</td>
-<!-- </tr>
-<tr>
-<td align="center" width="15%">
-<img height=60px src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> 
-</td> -->
-</tbody>
-</table>
-
-<!--## Github Stats  
-<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=sarahamiraslani&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  -->
-
-##  Let's connect :speech_balloon:
-[![Linkedin Badge](https://img.shields.io/badge/-SarahAmiraslani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sarahamiraslani/)](https://www.linkedin.com/in/sarahamiraslani/) [![Gmail Badge](https://img.shields.io/badge/-sarahamiraslani@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sarahamiraslani@gmail.com)](mailto:sarahamiraslani@gmail.com)
-
-
+<h2> Connect with me </h2>
+<a href = 'https://www.linkedin.com/in/https://www.linkedin.com/in/samirasl/'> <img width = '50px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<a href = 'https://sarahamiraslani.com'> <img width = '50px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
+<a href = 'https://www.github.com/https://github.com/SarahAmiraslani'> <img width = '50px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+<a href = 'mailto:sarahamiraslani@gmail.com'> <img width = '50px' align= 'center' src="https://github.com/astrit/css.gg/blob/master/icons/svg/mail.svg"/></a> 
