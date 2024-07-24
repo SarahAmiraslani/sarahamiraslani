@@ -23,9 +23,14 @@ Fun fact about me: in my free time I enjoy learning about philosophy. My favorit
 <a href= https://github.com/https://github.com/SarahAmiraslani?tab=repositories&q=&type=&language=gcp&sort= > <img width ='50px' height='50px' src ='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/gcp.svg'> </a>
 
 <h2> GitHub Statistics </h2>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sarahamiraslani&theme=dracula&hide_border=true&fire=EB5454" alt="GitHub Streak" /></a>
-<a href="https://git.io/streak-stats"><img src="https://github-profile-trophy.vercel.app/?username=sarahamiraslani&theme=dracula&row=2&column=3" alt="GitHub Trophies" /></a>
-
+<div style="display: flex; align-items: stretch;">
+    <a href="https://git.io/streak-stats" style="flex: 1; display: flex; justify-content: center; align-items: center;">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=sarahamiraslani&theme=dracula&hide_border=true&fire=EB5454" alt="GitHub Streak" style="height: 200px;"/>
+    </a>
+    <a href="https://git.io/streak-stats" style="flex: 1; display: flex; justify-content: center; align-items: center;">
+        <img src="https://github-profile-trophy.vercel.app/?username=sarahamiraslani&theme=dracula&row=2&column=3" alt="GitHub Trophies" style="height: 200px;"/>
+    </a>
+</div>
 <h2> Connect with me </h2>
 <a href = 'https://www.linkedin.com/in/https://www.linkedin.com/in/samirasl/'> <img width = '50px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://sarahamiraslani.com'> <img width = '50px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
