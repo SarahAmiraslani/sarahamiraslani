@@ -33,6 +33,6 @@ Fun fact about me: in my free time I enjoy learning about philosophy. My favorit
 </div>
 <h2> Connect with me </h2>
 <a href = 'https://www.linkedin.com/in/https://www.linkedin.com/in/samirasl/'> <img width = '50px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://sarahamiraslani.com'> <img width = '50px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
+<a href = 'https://sarahamiraslani.github.io/'> <img width = '50px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
 <a href = 'https://www.github.com/https://github.com/SarahAmiraslani'> <img width = '50px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 <a href = 'mailto:sarahamiraslani@gmail.com'> <img width = '50px' align= 'center' src="https://github.com/astrit/css.gg/blob/master/icons/svg/mail.svg"/></a> 
